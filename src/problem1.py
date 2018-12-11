@@ -105,10 +105,10 @@ def sum_of_digits(number):
 
 def run_test_problem1a():
     """ Tests the   problem1a   function. """
+    sum_of_digits()
+    return sum_of_digits()
 
-
-
-    # -------------------------------------------------------------------------
+    #-------------------------------------------------------------------------
     # TODO: 3. Implement this TEST function.
     #   It TESTS the  problem1a  function defined below.
     #   Include at least **   4   ** tests (we wrote two for you).
